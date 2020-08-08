@@ -1,0 +1,16 @@
+{
+    "name": "Madison ",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/contract_access": true,
+        "/category/access_control/contract_runstate": true,
+        "/category/asset_value_tracking/token": true,
+        "/category/asset_value_tracking/token/name": "Madison",
+        "/category/asset_value_tracking/token/symbol": "Madi ",
+        "/category/asset_value_tracking/token/decimals": "1",
+        "/category/asset_value_tracking/token/supply": "100",
+        "/category/collection/entity": true
+    }
+}
